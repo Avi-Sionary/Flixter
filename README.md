@@ -57,7 +57,7 @@ User stories -> viewing the list of movies (title, poster, rating, overview) in 
 <img src='walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
-- Changed background to black and text to whtie because it looks nicer IMO.
+- Changed background to black and text to white because it looks nicer IMO.
 - Added voter average for each movie.
 - RecyclerViews and ViewHolders wouldn't automatically show up when coding them into the XML files, made things confusing.
 - Placing and sizing objects in Design view was annoying.
